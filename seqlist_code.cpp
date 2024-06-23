@@ -5,7 +5,7 @@ using namespace std;
 #define Max 25
 typedef int element;
 
-
+//下一个版本将增加动态顺序表的满格重新分配空间操作，然后会新增第一章习题代码实现
 
 typedef struct {
 	element data[Max];
